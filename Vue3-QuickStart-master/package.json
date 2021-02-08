@@ -1,0 +1,20 @@
+{
+  "name": "Vue3-QuickStart-master",
+  "version": "1.0.0",
+  "description": "Simple SPA-like Vue 3.0 template for quick start.  No CLI/Webpack/Node required.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^5.0.2",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.20.2",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {}
+}
